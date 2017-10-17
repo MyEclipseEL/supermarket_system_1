@@ -1,4 +1,4 @@
 package com.supermarket_sys.dao;
 
-public class CommodityDao {
+public interface CommodityDao {
 }
