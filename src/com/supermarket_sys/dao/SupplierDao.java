@@ -1,5 +1,5 @@
 package com.supermarket_sys.dao;
 
-public interface CommodityDao {
+public interface SupplierDao {
 
 }
